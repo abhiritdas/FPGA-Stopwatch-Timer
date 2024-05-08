@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sim_1/new/tb_timerStopwatch.v,1713546619,verilog,,,,tb_timerStopwatch,,,,,,,,
+C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/clkdiv.v,1713495406,verilog,,C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/display.v,,clkdiv,,,,,,,,
+C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/display.v,1713495407,verilog,,C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/hexto7segment.v,,display,,,,,,,,
+C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/hexto7segment.v,1713495407,verilog,,C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/mode1.v,,hexto7segment,,,,,,,,
+C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/mode1.v,1713548910,verilog,,C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sim_1/new/tb_timerStopwatch.v,,mode1,,,,,,,,
+C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/mode2.v,1713495407,verilog,,C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/mode3.v,,mode2,,,,,,,,
+C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/mode3.v,1713495407,verilog,,C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/mode4.v,,mode3,,,,,,,,
+C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/mode4.v,1713495407,verilog,,C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/timeMultiplexingMain.v,,mode4,,,,,,,,
+C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6/timeMultiplexingMain.v,1713548063,verilog,,C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sim_1/new/tb_timerStopwatch.v,,timeMultiplexingMain,,,,,,,,
+C:/Users/abhir/Documents_Local/UT AUSTIN COURSEWORK/ECE316/FINAL PROJECT/project_1/project_1.srcs/sources_1/imports/lab6files/risingEdgeDetector.v,1713389376,verilog,,,,risingEdgeDetector,,,,,,,,
