@@ -1,4 +1,5 @@
 # FPGA-Stopwatch-Timer
+This project was completed with one other person at UT Austin.
 Programmed on AMD Vivado using Verilog HDL. 
 This program can only be run on the Digilent Basys 3 Artix-7 FPGA Trainer Board. 
 The bitstream file is located within the bitstream files folder. 
